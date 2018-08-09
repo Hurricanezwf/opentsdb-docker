@@ -1,0 +1,3 @@
+DockerHub: https://hub.docker.com/r/petergrace/opentsdb-docker/
+
+七牛云：http://octvixpq8.bkt.clouddn.com/opentsdb-docker_2.2.tar.gz
